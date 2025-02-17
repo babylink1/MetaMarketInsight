@@ -1,27 +1,36 @@
-# Getting Started with Create React App
+# MetaMarketInsight 🚀  
+A web app for analyzing NFT market trends, powered by **React, D3.js, Node.js, MongoDB**.  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🌟 Features  
+✅ **Real-time NFT price tracking**  
+✅ **Advanced search & filtering**  
+✅ **Interactive visualizations with D3.js**  
+✅ **Multi-blockchain compatibility**  
+✅ **API integration with OpenSea & The Graph**  
 
-## Available Scripts
+## 🛠 Tech Stack  
+- **Frontend**: React.js, Redux, D3.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: PostgreSQL / MongoDB  
+- **APIs**: OpenSea API, The Graph  
+- **Hosting**: AWS / Firebase  
 
-In the project directory, you can run:
+## 🚀 Getting Started  
+Follow these steps to run the project locally:  
 
-### `npm start`
+```bash
+# Clone the repository
+git clone https://github.com/babylink1/MetaMarketInsight.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Navigate to the project directory
+cd MetaMarketInsight
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Install dependencies
+npm install
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
+# Start the development server
+npm start
+lder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
